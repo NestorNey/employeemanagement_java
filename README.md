@@ -14,6 +14,16 @@ You are free to copy and change any code inside this repository :)
 
 ## Screenshots
 
-![App Screenshot](https://cdn.shopify.com/s/files/1/0571/0400/7337/articles/Portada_ChatGPT_01_800x600.jpg?v=1677083181)
+![App Screenshot](https://raw.githubusercontent.com/NestorNey/employeemanagement_java/main/screenshots/captura1.PNG)
 
-![App Screenshot](https://cdn.shopify.com/s/files/1/0571/0400/7337/articles/Portada_ChatGPT_01_800x600.jpg?v=1677083181)
+![App Screenshot](https://raw.githubusercontent.com/NestorNey/employeemanagement_java/main/screenshots/captura2.PNG)
+
+![App Screenshot](https://raw.githubusercontent.com/NestorNey/employeemanagement_java/main/screenshots/captura3.PNG)
+
+![App Screenshot](https://raw.githubusercontent.com/NestorNey/employeemanagement_java/main/screenshots/captura4.PNG)
+
+![App Screenshot](https://raw.githubusercontent.com/NestorNey/employeemanagement_java/main/screenshots/captura5.PNG)
+
+![App Screenshot](https://raw.githubusercontent.com/NestorNey/employeemanagement_java/main/screenshots/captura6.PNG)
+
+![App Screenshot](https://raw.githubusercontent.com/NestorNey/employeemanagement_java/main/screenshots/captura7.PNG)
