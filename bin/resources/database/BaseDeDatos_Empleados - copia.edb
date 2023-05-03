@@ -1,0 +1,79 @@
+0.{
+	ID: 0
+	Nombres: n
+	ApPat: n
+	ApMat: n
+	FeDeNa.{
+		DiaDN: 0
+		MesDN: 0
+		AnioDN: 0
+	}
+	Dir.{
+		Colonia: n
+		Calle: n
+		NoExt: 9
+		NoInt: 9
+		CodPos: 9
+	}
+	Dep: n
+	Pst: n
+	FeDeIn.{
+		DiaDI: 0
+		MesDI: 0
+		AnioDI: 0
+	}
+	Sal: 0.0
+}
+4.{
+	ID: 0
+	Nombres: n
+	ApPat: n
+	ApMat: n
+	FeDeNa.{
+		DiaDN: 0
+		MesDN: 0
+		AnioDN: 0
+	}
+	Dir.{
+		Colonia: n
+		Calle: n
+		NoExt: 9
+		NoInt: 9
+		CodPos: 9
+	}
+	Dep: n
+	Pst: n
+	FeDeIn.{
+		DiaDI: 0
+		MesDI: 0
+		AnioDI: 0
+	}
+	Sal: 0.0
+}
+2.{
+	ID: 0
+	Nombres: n
+	ApPat: n
+	ApMat: n
+	FeDeNa.{
+		DiaDN: 0
+		MesDN: 0
+		AnioDN: 0
+	}
+	Dir.{
+		Colonia: n
+		Calle: n
+		NoExt: 9
+		NoInt: 9
+		CodPos: 9
+	}
+	Dep: n
+	Pst: n
+	FeDeIn.{
+		DiaDI: 0
+		MesDI: 0
+		AnioDI: 0
+	}
+	Sal: 0.0
+}
+
