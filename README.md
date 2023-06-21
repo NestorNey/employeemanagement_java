@@ -22,8 +22,6 @@ You are free to copy and change any code inside this repository :)
 
 ![App Screenshot](https://raw.githubusercontent.com/NestorNey/employeemanagement_java/main/screenshots/captura4.PNG)
 
-![App Screenshot](https://raw.githubusercontent.com/NestorNey/employeemanagement_java/main/screenshots/captura5.PNG)
-
 ![App Screenshot](https://raw.githubusercontent.com/NestorNey/employeemanagement_java/main/screenshots/captura6.PNG)
 
 ![App Screenshot](https://raw.githubusercontent.com/NestorNey/employeemanagement_java/main/screenshots/captura7.PNG)
